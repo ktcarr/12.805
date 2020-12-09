@@ -1,3 +1,7 @@
+'''Spectral analysis functions used for ENSO/MJO analysis, for class project in 12.805.
+Most functions written by WHOI scientist Tom Farrar (see comments in each function).
+Theo Carr, December 2020'''
+
 import numpy as np
 from scipy import fft, stats
 import matplotlib.pyplot as plt
